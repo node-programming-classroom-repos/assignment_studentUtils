@@ -1,6 +1,6 @@
 # Instruktioner
 
-Den här uppgoftens syfte är att du ska påvisa kunskaper för funktioner, selektion och arrayhantering.
+Den här uppgiftens syfte är att du ska påvisa kunskaper för funktioner, selektion och arrayhantering.
 
 Du ska utveckla ett nodejs-program med javascript som analyserar en uppsättning studentbetyg och rapporterar olika statistik baserade på den datan.
 
