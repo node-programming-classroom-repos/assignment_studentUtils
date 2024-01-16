@@ -9,7 +9,7 @@ Skriv kommenterer i din källkod som dokumenterar/berättar vad och hur du gjort
 
 När du är färdig lämnar du in din lösning här som en zip-fil - inkludera den källkod du har skrivit samt testet (inget annat).
 
-Använd medföljande test (studentUtils.test.js).
+Använd medföljande test **studentUtils.test.js** (https://github.com/node-programming-classroom-repos/assignment_studentUtils/blob/main/studentUtils.test.js).
 För att använda testet;
 
 - ladda ner filerna för uppgiften (eller t ex klona det här repot)
