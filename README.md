@@ -2,8 +2,11 @@
 
 Utveckla ett nodejs-program med javascript som analyserar en uppsättning studentbetyg och rapporterar olika statistik baserade på den datan.
 Programmet ska demonstrera kunskaper i funktioner, selektion och arrayhantering.
+
 Detta betyder att du måste skapa funktioner, använda loopar och selektion (t ex if, else och/eller t ex switch etc).
+
 Skriv kommenterer i din källkod som dokumenterar/berättar vad och hur du gjort.
+
 När du är färdig lämnar du in din lösning här som en zip-fil - inkludera den källkod du har skrivit samt testet (inget annat).
 
 Använd medföljande test (studentUtils.test.js).
