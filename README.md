@@ -1,7 +1,8 @@
 # Instruktioner
 
-Utveckla ett nodejs-program med javascript som analyserar en uppsättning studentbetyg och rapporterar olika statistik baserade på den datan.
-Programmet ska demonstrera kunskaper i funktioner, selektion och arrayhantering.
+Den här uppgoftens syfte är att du ska påvisa kunskaper för funktioner, selektion och arrayhantering.
+
+Du ska utveckla ett nodejs-program med javascript som analyserar en uppsättning studentbetyg och rapporterar olika statistik baserade på den datan.
 
 Detta betyder att du måste skapa funktioner, använda loopar och selektion (t ex if, else och/eller t ex switch etc).
 
