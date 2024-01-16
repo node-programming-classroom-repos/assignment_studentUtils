@@ -43,9 +43,9 @@ så här skulle din package.json alltså kunna se ut;
 
 # Krav
 
-- Du får inte installera moduler eller använda externa sådana i din lösning.
+- Du får inte installera moduler eller använda externa sådana i din lösning (förutom jest då).
 - Du ska bara inkludera den källkod du har skrivit samt testfilen i din inlämning - inkludera inte lokala mappar såsom "node_modules".
-- Man måste använd medföljande testfil **studentUtils.test.js**. Vid bedömning kommer testerna och testdatat i den användas.
+- Man måste använda medföljande testfil **studentUtils.test.js**. ***vid bedömning kommer testerna och testdatat i den användas***.
 - Du ska skapa en fil som ska döpas till **studentUtils.js** som ska innehålla 3st funktioner: 
 
 **calculateAverageGrade(students), identifyTopStudents(students, threshold), sortStudentsByGrade(students)**.
